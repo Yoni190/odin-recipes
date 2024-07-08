@@ -1,1 +1,3 @@
 # odin-recipes
+This is a recipe website that will help users find delicious and mouth watering recipes.
+By the end of this project, I will have demonstrated a basic understanding in HTML. My knowledge include: creating headings and paragraphs, making the text bold and italic, creating links, and adding images. In addition to this, it will demonstrate that I am capable of efficiently using github and git.
