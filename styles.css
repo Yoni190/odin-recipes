@@ -1,12 +1,14 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
     background-color: greenyellow;
+    box-sizing: border-box;
 }
-h1, div{
+h1{
     text-align: center;
 }
 ul{
-    display: inline-block;
+    width:200px;
+    margin:0 auto;    
 }
 .parts {
     color:red;
